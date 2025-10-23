@@ -1,4 +1,8 @@
 # CSCE1015 - Hochstetler
 Assignment repository for UNT CSCE1015
 
-$clear
+## EUID
+rss0225
+
+## Favorite Linux Command
+clear
